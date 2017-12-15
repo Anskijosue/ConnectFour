@@ -1,0 +1,3 @@
+Testing hasWon() method, should print true true
+Testing hasWon() method, should print false false
+Opponent wins if he plays chip on first file, so rick should return 0 to mean he moves on row 1: 0
